@@ -1,0 +1,1 @@
+powershell.exe "Get-AppxPackage -allusers | Remove-AppxPackage"
